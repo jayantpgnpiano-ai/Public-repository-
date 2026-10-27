@@ -1,0 +1,6 @@
+{
+  "name": "Project Connect",
+  "description": "A minimalist social platform with mindful connections, editorial calm, and a personal AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

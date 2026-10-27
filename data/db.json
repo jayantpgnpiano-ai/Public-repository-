@@ -1,0 +1,430 @@
+{
+  "users": [
+    {
+      "id": "usr_elena",
+      "username": "elena",
+      "email": "elena@projectconnect.app",
+      "passwordHash": "435339f6482c9ce993f9be8dbe3058ba7285339e4ef22ea6fffdee18da75bdb5cf381605e7c7a8b09b007972f0bb16169b490b2089ba32a7d2cce56236ee9e21",
+      "salt": "877e2670b91c21245d6cda71c2de1f8f",
+      "displayName": "Elena Vance",
+      "bio": "Editorial designer & art director. Crafting quiet digital spaces and typographies that breathe.",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+      "location": "Copenhagen, Denmark",
+      "website": "https://elenavance.design",
+      "isPrivate": false,
+      "createdAt": "2026-09-27T16:22:40.807Z"
+    },
+    {
+      "id": "usr_marcus",
+      "username": "marcus",
+      "email": "marcus@projectconnect.app",
+      "passwordHash": "435339f6482c9ce993f9be8dbe3058ba7285339e4ef22ea6fffdee18da75bdb5cf381605e7c7a8b09b007972f0bb16169b490b2089ba32a7d2cce56236ee9e21",
+      "salt": "877e2670b91c21245d6cda71c2de1f8f",
+      "displayName": "Marcus Thorne",
+      "bio": "Architect, essayist on spatial quietude. Exploring the balance between physical light and digital serenity.",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "coverUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop&q=80",
+      "location": "Kyoto / London",
+      "website": "https://marcusthorne.arch",
+      "isPrivate": false,
+      "createdAt": "2026-10-02T16:22:40.807Z"
+    },
+    {
+      "id": "usr_maya",
+      "username": "maya",
+      "email": "maya@projectconnect.app",
+      "passwordHash": "435339f6482c9ce993f9be8dbe3058ba7285339e4ef22ea6fffdee18da75bdb5cf381605e7c7a8b09b007972f0bb16169b490b2089ba32a7d2cce56236ee9e21",
+      "salt": "877e2670b91c21245d6cda71c2de1f8f",
+      "displayName": "Maya Lin",
+      "bio": "Creative technologist & generative artist. Curious about deliberate software and human warmth.",
+      "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&auto=format&fit=crop&q=80",
+      "coverUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+      "location": "Stockholm, Sweden",
+      "isPrivate": false,
+      "createdAt": "2026-10-07T16:22:40.807Z"
+    },
+    {
+      "id": "usr_julian",
+      "username": "julian",
+      "email": "julian@projectconnect.app",
+      "passwordHash": "435339f6482c9ce993f9be8dbe3058ba7285339e4ef22ea6fffdee18da75bdb5cf381605e7c7a8b09b007972f0bb16169b490b2089ba32a7d2cce56236ee9e21",
+      "salt": "877e2670b91c21245d6cda71c2de1f8f",
+      "displayName": "Julian Croft",
+      "bio": "Analog photographer, tea drinker, and collector of vintage field notebooks.",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "location": "Vancouver, BC",
+      "website": "https://juliancroft.photo",
+      "isPrivate": false,
+      "createdAt": "2026-10-12T16:22:40.807Z"
+    },
+    {
+      "id": "usr_sophia",
+      "username": "sophia",
+      "email": "sophia@projectconnect.app",
+      "passwordHash": "435339f6482c9ce993f9be8dbe3058ba7285339e4ef22ea6fffdee18da75bdb5cf381605e7c7a8b09b007972f0bb16169b490b2089ba32a7d2cce56236ee9e21",
+      "salt": "877e2670b91c21245d6cda71c2de1f8f",
+      "displayName": "Sophia Reyes",
+      "bio": "Product strategist researching digital wellness, attention economies, and deliberate communication.",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "location": "Zurich, Switzerland",
+      "isPrivate": false,
+      "createdAt": "2026-10-17T16:22:40.807Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_1208f55dad707502",
+      "authorId": "usr_elena",
+      "content": "Deliberate craftsmanship requires pausing between the intention and the stroke. In an age of instant generation, patient editing is our rarest gift. #craft #design #slowliving",
+      "tags": [
+        "craft",
+        "design",
+        "slowliving"
+      ],
+      "likesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2026-10-27T16:24:34.016Z"
+    },
+    {
+      "id": "post_1",
+      "authorId": "usr_elena",
+      "content": "True luxury in modern software is silence. An interface that honors your attention rather than demanding it every second. Here is a study of a physical publication layout translated to responsive web space.",
+      "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1000&auto=format&fit=crop&q=80",
+      "tags": [
+        "minimalism",
+        "editorial",
+        "design"
+      ],
+      "likesCount": 14,
+      "commentsCount": 3,
+      "createdAt": "2026-10-27T14:22:40.807Z"
+    },
+    {
+      "id": "post_2",
+      "authorId": "usr_marcus",
+      "content": "In classical Japanese timber framing, joints are cut so precisely that no nails are required. The strength comes from the harmony of the components. Good social platforms should feel like this—held together by trust, not algorithmic panic.",
+      "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1000&auto=format&fit=crop&q=80",
+      "tags": [
+        "architecture",
+        "craft",
+        "philosophy"
+      ],
+      "likesCount": 28,
+      "commentsCount": 5,
+      "createdAt": "2026-10-27T10:22:40.807Z"
+    },
+    {
+      "id": "post_3",
+      "authorId": "usr_maya",
+      "content": "Experimenting with gentle AI assistants that operate like thoughtful research companions rather than chatty salesmen. When you ask a question, you want clarity and perspective, not synthetic enthusiasm.",
+      "tags": [
+        "ai",
+        "mindfulness",
+        "tools"
+      ],
+      "likesCount": 19,
+      "commentsCount": 2,
+      "createdAt": "2026-10-27T02:22:40.807Z"
+    },
+    {
+      "id": "post_4",
+      "authorId": "usr_julian",
+      "content": "Early morning light on 35mm Tri-X film. The beauty of analog grain is that it does not attempt to be sterile or infinite—it accepts its own frame and imperfection.",
+      "imageUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1000&auto=format&fit=crop&q=80",
+      "tags": [
+        "photography",
+        "film",
+        "analog"
+      ],
+      "likesCount": 31,
+      "commentsCount": 4,
+      "createdAt": "2026-10-26T12:22:40.807Z"
+    },
+    {
+      "id": "post_5",
+      "authorId": "usr_sophia",
+      "content": "We need fewer feeds that scroll endlessly and more spaces where conversations have a natural beginning, thoughtful middle, and quiet conclusion. What made your internet experience feel grounded today?",
+      "tags": [
+        "digitalwellness",
+        "community"
+      ],
+      "likesCount": 22,
+      "commentsCount": 6,
+      "createdAt": "2026-10-26T00:22:40.807Z"
+    }
+  ],
+  "likes": [
+    {
+      "id": "lik_1",
+      "postId": "post_1",
+      "userId": "usr_marcus",
+      "createdAt": "2026-10-27T15:22:40.807Z"
+    },
+    {
+      "id": "lik_2",
+      "postId": "post_1",
+      "userId": "usr_maya",
+      "createdAt": "2026-10-27T15:22:40.807Z"
+    },
+    {
+      "id": "lik_3",
+      "postId": "post_2",
+      "userId": "usr_elena",
+      "createdAt": "2026-10-27T11:22:40.808Z"
+    },
+    {
+      "id": "lik_4",
+      "postId": "post_3",
+      "userId": "usr_elena",
+      "createdAt": "2026-10-27T06:22:40.808Z"
+    },
+    {
+      "id": "lik_5",
+      "postId": "post_4",
+      "userId": "usr_elena",
+      "createdAt": "2026-10-26T20:22:40.808Z"
+    },
+    {
+      "id": "lik_f1b0f5e80b00",
+      "postId": "post_1208f55dad707502",
+      "userId": "usr_elena",
+      "createdAt": "2026-10-27T16:24:45.445Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "com_1",
+      "postId": "post_1",
+      "authorId": "usr_marcus",
+      "content": "The proportional balance in this editorial layout is striking, Elena. Reminds me of Tschichold’s canonical grid.",
+      "createdAt": "2026-10-27T14:52:40.808Z"
+    },
+    {
+      "id": "com_2",
+      "postId": "post_1",
+      "authorId": "usr_maya",
+      "content": "The subtle off-white tones prevent the stark glare of pure #FFFFFF screens. Very restful on the eyes.",
+      "createdAt": "2026-10-27T15:22:40.808Z"
+    },
+    {
+      "id": "com_3",
+      "postId": "post_2",
+      "authorId": "usr_sophia",
+      "content": "Kigumi woodworking! The philosophy applies so deeply to organizational psychology too.",
+      "createdAt": "2026-10-27T12:22:40.808Z"
+    },
+    {
+      "id": "com_8f6a067c3c0b",
+      "postId": "post_1208f55dad707502",
+      "authorId": "usr_elena",
+      "content": "The editing phase is where the soul reveals itself.",
+      "createdAt": "2026-10-27T16:25:13.426Z"
+    }
+  ],
+  "follows": [
+    {
+      "id": "fol_1",
+      "followerId": "usr_elena",
+      "followingId": "usr_marcus",
+      "createdAt": "2026-10-07T16:22:40.807Z"
+    },
+    {
+      "id": "fol_2",
+      "followerId": "usr_elena",
+      "followingId": "usr_maya",
+      "createdAt": "2026-10-09T16:22:40.807Z"
+    },
+    {
+      "id": "fol_3",
+      "followerId": "usr_marcus",
+      "followingId": "usr_elena",
+      "createdAt": "2026-10-12T16:22:40.807Z"
+    },
+    {
+      "id": "fol_4",
+      "followerId": "usr_maya",
+      "followingId": "usr_elena",
+      "createdAt": "2026-10-15T16:22:40.807Z"
+    },
+    {
+      "id": "fol_5",
+      "followerId": "usr_julian",
+      "followingId": "usr_marcus",
+      "createdAt": "2026-10-19T16:22:40.807Z"
+    },
+    {
+      "id": "fol_6",
+      "followerId": "usr_sophia",
+      "followingId": "usr_elena",
+      "createdAt": "2026-10-22T16:22:40.807Z"
+    },
+    {
+      "id": "fol_84c9c18057e3",
+      "followerId": "usr_elena",
+      "followingId": "usr_julian",
+      "createdAt": "2026-10-27T16:25:35.331Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_elena_marcus",
+      "participantIds": [
+        "usr_elena",
+        "usr_marcus"
+      ],
+      "updatedAt": "2026-10-27T15:52:40.808Z",
+      "lastMessageText": "Looking forward to the typography drafts! Send them whenever you are ready.",
+      "lastMessageAt": "2026-10-27T15:52:40.808Z"
+    },
+    {
+      "id": "conv_elena_maya",
+      "participantIds": [
+        "usr_elena",
+        "usr_maya"
+      ],
+      "updatedAt": "2026-10-27T14:22:40.808Z",
+      "lastMessageText": "The generative canvas runs so smoothly with the software fallback.",
+      "lastMessageAt": "2026-10-27T14:22:40.808Z"
+    },
+    {
+      "id": "conv_ae98999be150b557",
+      "participantIds": [
+        "usr_elena",
+        "usr_julian"
+      ],
+      "updatedAt": "2026-10-27T16:25:58.143Z",
+      "lastMessageText": "Hi Julian! I admired your thoughts on 35mm Tri-X film. Are you currently working on a physical publication?",
+      "lastMessageAt": "2026-10-27T16:25:58.143Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1",
+      "conversationId": "conv_elena_marcus",
+      "senderId": "usr_marcus",
+      "text": "Hi Elena! I loved your note on intentional software design.",
+      "createdAt": "2026-10-27T15:22:40.808Z",
+      "readBy": [
+        "usr_marcus",
+        "usr_elena"
+      ]
+    },
+    {
+      "id": "msg_2",
+      "conversationId": "conv_elena_marcus",
+      "senderId": "usr_elena",
+      "text": "Thank you Marcus! I am preparing a few specimen pages pairing Fraunces with clean sans body text.",
+      "createdAt": "2026-10-27T15:37:40.808Z",
+      "readBy": [
+        "usr_marcus",
+        "usr_elena"
+      ]
+    },
+    {
+      "id": "msg_3",
+      "conversationId": "conv_elena_marcus",
+      "senderId": "usr_marcus",
+      "text": "Looking forward to the typography drafts! Send them whenever you are ready.",
+      "createdAt": "2026-10-27T15:52:40.808Z",
+      "readBy": [
+        "usr_marcus"
+      ]
+    },
+    {
+      "id": "msg_bdec59bab844d146",
+      "conversationId": "conv_ae98999be150b557",
+      "senderId": "usr_elena",
+      "text": "Hi Julian! I admired your thoughts on 35mm Tri-X film. Are you currently working on a physical publication?",
+      "createdAt": "2026-10-27T16:25:58.143Z",
+      "readBy": [
+        "usr_elena"
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "recipientId": "usr_elena",
+      "actorId": "usr_marcus",
+      "type": "like",
+      "postId": "post_1",
+      "content": "liked your post \"True luxury in modern software...\"",
+      "isRead": false,
+      "createdAt": "2026-10-27T15:22:40.808Z"
+    },
+    {
+      "id": "notif_2",
+      "recipientId": "usr_elena",
+      "actorId": "usr_marcus",
+      "type": "comment",
+      "postId": "post_1",
+      "content": "commented: \"The proportional balance in this editorial layout...\"",
+      "isRead": false,
+      "createdAt": "2026-10-27T14:52:40.808Z"
+    },
+    {
+      "id": "notif_3",
+      "recipientId": "usr_elena",
+      "actorId": "usr_sophia",
+      "type": "follow",
+      "content": "started following you",
+      "isRead": true,
+      "createdAt": "2026-10-22T16:22:40.808Z"
+    },
+    {
+      "id": "notif_437a09de9d19",
+      "recipientId": "usr_julian",
+      "actorId": "usr_elena",
+      "type": "follow",
+      "content": "started following your reflections",
+      "isRead": false,
+      "createdAt": "2026-10-27T16:25:35.331Z"
+    },
+    {
+      "id": "notif_98ced4f672bf",
+      "recipientId": "usr_julian",
+      "actorId": "usr_elena",
+      "type": "message",
+      "content": "sent you a private message: \"Hi Julian! I admired your thoughts on 35...\"",
+      "isRead": false,
+      "createdAt": "2026-10-27T16:25:58.143Z"
+    }
+  ],
+  "aiConversations": [
+    {
+      "id": "ai_conv_1",
+      "userId": "usr_elena",
+      "title": "Mindful Social Platform Principles",
+      "updatedAt": "2026-10-27T16:29:41.852Z",
+      "messages": [
+        {
+          "id": "ai_m1",
+          "role": "user",
+          "text": "What are three core guidelines for designing a social interface that reduces cognitive fatigue?",
+          "timestamp": "2026-10-26T16:22:40.808Z"
+        },
+        {
+          "id": "ai_m2",
+          "role": "model",
+          "text": "Here are three foundational principles for low-fatigue social design:\n\n1. **Finite Consumption Horizons**: Replace bottomless infinite scroll with clear pagination or \"You are caught up\" milestones that allow the brain to find natural closure.\n\n2. **Quiet Metadata Architecture**: Strip loud badges, high-contrast notification counters, and pulsing indicators. Keep dates and tags unboxed with subtle typography.\n\n3. **Asynchronous Intent**: Provide deliberate composition tools rather than ephemeral pressure, encouraging thoughtful longer reflections over rapid-fire reactions.",
+          "timestamp": "2026-10-26T16:22:42.808Z"
+        },
+        {
+          "id": "aim_214336f0716c",
+          "role": "user",
+          "text": "How should a writer approach editing their first book of essays?",
+          "timestamp": "2026-10-27T16:29:36.418Z"
+        },
+        {
+          "id": "aim_dc9e379f2326",
+          "role": "model",
+          "text": "Here is a perspective for your draft, Elena Vance:\n\nFocus on the single observation that surprised you first. When we write for deliberate platforms, clarity outlasts cleverness.\n\n*Suggested opening:* \"Often we mistake activity for progress. The most enduring work happens when we remove the noise and leave space for the core idea to speak for itself.\"\n\nHow does this resonance feel with what you had in mind?",
+          "timestamp": "2026-10-27T16:29:41.852Z"
+        }
+      ]
+    }
+  ],
+  "blocks": [],
+  "reports": []
+}
